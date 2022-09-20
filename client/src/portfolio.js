@@ -217,7 +217,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://github.com/DimuthuNuwanBandara/The-Food-Shop"
+          url: "https://github.com/DimuthuNuwanBandara/Hospital-Management-System"
         }
       ]
     }
