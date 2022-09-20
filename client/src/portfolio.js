@@ -209,6 +209,17 @@ const bigProjects = {
           url: "https://github.com/DimuthuNuwanBandara/The-Food-Shop"
         }
       ]
+    },
+    {
+      image: require("./assets/images/hospital.jpg"),
+      projectName: "ABC Hospital",
+      projectDesc: "Hospital Management System.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/DimuthuNuwanBandara/The-Food-Shop"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
